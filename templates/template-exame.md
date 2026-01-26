@@ -1,26 +1,44 @@
-# EXAME: <NOME OFICIAL DO EXAME>
+---
+tipo: exame
+nome: Tomografia Computadorizada
+sinonimos: [tomografia, tc, cone beam]
+atendimento: ordem_chegada | agendamento
+exige_agendamento: true|false
+---
 
-TIPO: exame
-ATENDIMENTO: ordem_chegada | agendamento
+# EXAME — TOMOGRAFIA COMPUTADORIZADA
 
-## RESPOSTAS_PADRAO
+## DESCRICAO
+(O que é o exame)
 
-## INFORMACOES
+## PARA_QUE_SERVE
+(se existir na base)
 
-DESCRICAO:
+## ATENDIMENTO
+(ordem de chegada ou agendamento)
 
-ATENDIMENTO:
+## DOCUMENTOS_PARTICULAR
+- ...
 
-PREPARO:
+## DOCUMENTOS_CONVENIO
+- ...
 
-DOCUMENTOS_PARTICULAR:
+## PREPARO
+- ...
 
-DOCUMENTOS_CONVENIO:
+## HORARIOS
+- ...
 
-HORARIOS:
+## GESTANTES
+- ...
 
-GESTANTES:
+## RESTRICOES
+- ...
 
-RESTRICOES:
+## ENTREGA_RESULTADO
+(se existir no seu processo)
 
 ## LIMITES
+- Não realiza sem guia quando convênio exigir.
+- Não realiza sem documento.
+- Não informar valores.
