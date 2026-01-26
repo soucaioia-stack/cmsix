@@ -1,15 +1,18 @@
+---
+tipo: base_geral
+nome: IX Radiologia
+---
+
 # FONTE GERAL — IX RADIOLOGIA
 
-TIPO: base_geral
+## SOBRE
+A IX Radiologia é uma clínica especializada em exames de imagem odontológica (raio-X).  
+Não realizamos procedimentos odontológicos nem consultas.
 
-## SOBRE_A_CLINICA
-- A IX Radiologia é uma clínica especializada em exames de imagem odontológica (raio-X).
-- Não realizamos procedimentos odontológicos nem consultas.
-
-## DADOS_DA_CLINICA
+## DADOS_CLINICA
 
 ENDERECO:
-- Av. Brasil, 121 - Jardim da Rainha, Itapevi - SP, CEP 06656-420
+- Av. Brasil, 121 - Jardim da Rainha, Itapevi - SP, CEP 06656-420  
 - Próximo à Praça 18 de Fevereiro e à Sodiê Doces
 
 CONTATOS:
@@ -22,24 +25,17 @@ DADOS_CADASTRAIS:
 - CRO-SP: 13.616  
 - Responsável técnico: Genesis Cristian Guerra
 
-## HORARIOS
-
-ATENDIMENTO:
+## HORARIOS_ATENDIMENTO
 - Segunda a sexta: 08:45 às 18:15  
 - Sábado: 08:15 às 12:45  
 - Domingo: fechado  
 
-EXAMES:
+## HORARIOS_EXAMES
 - Segunda a sexta: 08:45 às 18:00  
 - Sábado: 08:15 às 12:30  
 - Domingo: fechado  
 
-OBSERVACAO:
-- Funcionamento sempre sob avaliação de demanda.
-
-## EXAMES_REALIZADOS
-
-ORDEM_DE_CHEGADA:
+## EXAMES_ORDEM_CHEGADA
 - Documentação Ortodôntica  
 - Panorâmica  
 - Tomografia Computadorizada  
@@ -50,18 +46,17 @@ ORDEM_DE_CHEGADA:
 - Modelo ortodôntico  
 - Radiografia de ATM  
 
-AGENDAMENTO_OBRIGATORIO:
+## EXAMES_AGENDAMENTO
 - Levantamento Periapical  
 - Escaneamento Intraoral  
 
 ## ORIENTACOES_GERAIS
+- Atendimento por ordem de chegada quando não houver exigência de agendamento.  
+- O tempo de espera pode variar conforme a demanda.  
+- Segunda-feira e sábado costumam ter maior movimento.  
+- Manhã e meio da tarde costumam ter menor fluxo.
 
-- O atendimento na recepção é por ordem de chegada, quando não há exigência de agendamento.
-- O tempo de espera pode variar conforme a demanda.
-- Segunda-feira e sábado costumam ser os dias de maior movimento.
-- Horários da manhã e meio da tarde costumam ter menor fluxo.
-
-## LIMITES
-- Não informar valores.
-- Não informar prazos de entrega genéricos.
-- Não orientar sobre diagnósticos.
+## LIMITES_CLINICOS
+- Não informar valores.  
+- Não informar prazos genéricos.  
+- Não orientar diagnósticos.
