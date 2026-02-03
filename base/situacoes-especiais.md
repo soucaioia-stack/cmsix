@@ -9,7 +9,7 @@ nome: Situações Especiais
 Não temos estacionamento próprio, porém há Zona Azul na rua da clínica.
 
 ## ACESSIBILIDADE
-A clínica possui acessibilidade, com rampa de acesso e banheiro PCD.
+A clínica possui acessibilidade, com rampa de acesso, corredores largos e banheiro PCD.
 
 ## NAO_REALIZAMOS
 A IX Radiologia realiza apenas exames de imagem odontológica (raio-X).
