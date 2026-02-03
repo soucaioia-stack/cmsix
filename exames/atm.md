@@ -1,58 +1,66 @@
----
-tipo: exame
-nome: Radiografia de ATM
-sinonimos: [atm, articulacao temporomandibular, radiografia de atm]
-atendimento: ordem_chegada
-exige_agendamento: false
----
+# ATM (Radiografia de ATM)
 
-# EXAME — RADIOGRAFIA DE ATM
+## Descrição
 
-## DESCRICAO
-Radiografia da articulação temporomandibular para avaliação da mandíbula.
+Radiografia da Articulação Temporomandibular (ATM), utilizada para avaliação de disfunções e alterações na articulação da mandíbula.
 
-## ATENDIMENTO
-Realizado por ordem de chegada, sem necessidade de agendamento.
+## Modalidade de Atendimento
 
-## DOCUMENTOS_PARTICULAR
+Atendimento por **ordem de chegada**.  
+Não é necessário agendamento prévio.
+
+## Prazo de Entrega
+
+O prazo de entrega deve ser consultado diretamente na recepção no dia do exame.
+
+## Preparo Necessário
+
+Não é necessário preparo específico.
+
+Orientações:
+- Trazer documento de identidade
+- Trazer a guia do dentista
+- Evitar o consumo de alimentos antes do exame
+- Realizar a higiene bucal
+
+## Restrições e Contraindicações
+
+### Pode realizar
+- Paciente com pontos na boca
+
+### Gestantes
+- Exame com radiação
+- Deve ser realizado somente em caso de urgência
+- Necessária autorização por escrito do médico obstetra e do dentista solicitante
+
+## Horários de Atendimento
+
+### Segunda a Sexta
+| Tipo | Horário |
+|------|--------|
+| Convênios | 08:45 às 18:00 |
+| Particulares | 08:45 às 18:15 |
+
+### Sábado
+| Tipo | Horário |
+|------|--------|
+| Convênios | 08:15 às 12:30 |
+| Particulares | 08:15 às 12:45 |
+
+## Documentação Necessária
+
+### Particular
 - Nome completo  
 - Data de nascimento  
 - CPF  
 - E-mail  
-- Foto da solicitação do dentista  
+- Foto da solicitação do exame emitida pelo dentista  
 
-## DOCUMENTOS_CONVENIO
-- Solicitação em papel timbrado  
-- Nome do paciente  
-- Nome do exame  
-- Carimbo com CRO  
-- Assinatura original  
-- Documento com foto  
+### Convênio
+- Solicitação em papel timbrado (com endereço e telefone do dentista ou clínica)  
+- Nome do paciente na guia  
+- Descrição do exame solicitado  
+- Carimbo com nome e CRO do dentista  
+- Assinatura original (sem borrões ou rasuras)  
+- Documento com foto (RG, CNH ou CPF)  
 - Carteirinha do convênio  
-
-## PREPARO
-- Trazer documento com foto  
-- Trazer guia do dentista  
-- Evitar consumo de alimentos antes do exame  
-- Realizar higiene bucal  
-
-## HORARIOS
-- Segunda a sexta: 08:45 às 18:00  
-- Sábado: 08:15 às 12:30  
-- Funcionamento sob avaliação de demanda  
-
-## GESTANTES
-- Exame com radiação  
-- Somente em caso de urgência  
-- Necessária autorização por escrito do obstetra e do dentista  
-
-## RESTRICOES
-- Pode realizar exame mesmo com pontos na boca  
-
-## ENTREGA_RESULTADO
-- O prazo de entrega deve ser consultado com a recepção no dia do exame.
-
-## LIMITES
-- Não informar valores  
-- Não informar prazos além do descrito  
-- Não orientar diagnóstico
