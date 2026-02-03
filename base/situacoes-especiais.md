@@ -17,9 +17,9 @@ Não realizamos procedimentos como extração, canal, aparelho, restauração, l
 Também não realizamos consultas odontológicas.
 
 ## CRIANCA
-Crianças podem acompanhar o responsável.
+Crianças devem estar acompanhadas durante toda a permanência na clínica.
 Durante o exame, apenas o paciente entra na sala.
-A clínica não se responsabiliza por menores de idade desacompanhados.
+A clínica não fica responsável por menores de idade durante nenhum instante.
 
 ## GESTANTES
 Exames com radiação em gestantes só devem ser realizados em caso de urgência e com autorização médica e do obstetra.
