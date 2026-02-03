@@ -17,7 +17,7 @@ ENDERECO:
 
 CONTATOS:
 - Telefone: (11) 4141-1905  
-- WhatsApp dentistas: (11) 96650-7172  
+- WhatsApp exclusivo para dentistas: (11) 96650-7172  
 - E-mail: contato@ixradiologia.com.br
 
 DADOS_CADASTRAIS:
@@ -35,6 +35,12 @@ DADOS_CADASTRAIS:
 - Sábado: 08:15 às 12:30  
 - Domingo: fechado  
 
+## ACESSIBILIDADE
+- A clínica possui rampa de acesso, corredores largos e banheiro adaptado para PCD.
+
+## ENTRADA_SALA
+- Apenas o paciente que irá realizar o exame pode entrar na sala de exames.
+
 ## EXAMES_ORDEM_CHEGADA
 - Documentação Ortodôntica  
 - Panorâmica  
@@ -50,13 +56,10 @@ DADOS_CADASTRAIS:
 - Levantamento Periapical  
 - Escaneamento Intraoral  
 
-## ORIENTACOES_GERAIS
-- Atendimento por ordem de chegada quando não houver exigência de agendamento.  
-- O tempo de espera pode variar conforme a demanda.  
-- Segunda-feira e sábado costumam ter maior movimento.  
-- Manhã e meio da tarde costumam ter menor fluxo.
+## NAO_REALIZAMOS
+- Procedimentos odontológicos (extração, canal, aparelho, restauração, limpeza, clareamento).  
+- Consultas odontológicas.  
+- Exames de sangue.
 
-## LIMITES_CLINICOS
-- Não informar valores.  
-- Não informar prazos genéricos.  
-- Não orientar diagnósticos.
+## TRABALHE_CONOSCO
+- Currículos devem ser enviados para: trabalheconosco@ixradiologia.com.br
