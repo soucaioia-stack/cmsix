@@ -21,7 +21,20 @@ Resposta padrão:
 
 ## CONSULTA DE PRAZOS (GENÉRICO)
 
-Quando o prazo não estiver definido:
+# PERGUNTA: "Quanto tempo demora um exame?"
+
+IMPORTANTE: Diferenciar sempre:
+
+- Tempo para REALIZAR o exame → poucos minutos
+- Prazo para RESULTADO → varia conforme o exame
+
+### Resposta padrão:
+
+"O exame em si é bem rápido, leva poucos minutos.  
+Já o prazo para o resultado varia conforme o exame.  
+Se você me disser qual exame vai fazer, posso te informar o prazo certinho."
+
+### Quando o prazo não estiver definido:
 
 "O prazo para esse exame você precisa consultar na recepção no dia."
 
